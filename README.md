@@ -23,5 +23,9 @@ Contém informações sobre:
 <li>Google Collab
 </ul
   
-![winter-is-coming](https://user-images.githubusercontent.com/39352792/88099142-2a524880-cb71-11ea-8b22-0d9ec8d13677.gif)
+  
+  
+  
+ ![winter-is-coming](https://user-images.githubusercontent.com/39352792/88099142-2a524880-cb71-11ea-8b22-0d9ec8d13677.gif)
+
 
